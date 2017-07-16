@@ -1,0 +1,13 @@
+{
+  "name": "hyper-cursor-fade",
+  "version": "1.0.0",
+  "description": "Fade cursor blink for HyperTerm",
+  "repository": "goronfreeman/hyper-cursor-fade",
+  "main": "index.js",
+  "keywords": [
+    "hyperterm",
+    "cursor-fade"
+  ],
+  "author": "Hunter Braun <hunter.braun@gmail.com>",
+  "license": "MIT"
+}
